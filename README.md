@@ -11,7 +11,7 @@ We are coming Soon! but soon change domain name.
 * High Resolution
 * Minify CSS/JS
 
-![Snapshot](https://rawgit.com/fazurrehman/cmg-soon/master/img/layout.jpg "Coming Soon Page")
+![Snapshot](https://cdn.jsdelivr.net/gh/fazurrehman/cmg-soon@master/img/layout.jpg "Coming Soon Page")
 ![Snapshot](https://rawgit.com/fazurrehman/cmg-soon/master/img/performance.jpg)
 
 ###### By: Faizur Rehman
